@@ -1,24 +1,31 @@
 # Table of contents
 
-## 😀 OTLegacy <a href="#otl" id="otl"></a>
+## 📜 Основное
 
-* [Что такое этот ваш OTLegacy?](README.md)
-* [Как получить проходку?](otl/how-to-join.md)
-* [Правила Сервера](otl/server-rules.md)
-* [Креатив сервер](otl/kreativ-server.md)
+* [Что такое OTLegacy?](README.md)
+* [Правила Сервера](osnovnoe/server-rules.md)
+* [Как начать играть?](osnovnoe/how-to-join.md)
+* [Команды](osnovnoe/commands.md)
 
-## 🪠 Наши плагины <a href="#plugins" id="plugins"></a>
+## 🎮 Игровой Контент
 
-* [Brewery](plugins/brewery.md)
-* [Команды](plugins/komandy.md)
-* [Е-Рейтинг](plugins/e-reiting.md)
-* [Мелкие плагины](plugins/small-plugins.md)
+* [Креатив сервер](igrovoi-kontent/kreativ-server.md)
+* [Варка напитков](igrovoi-kontent/brewery/README.md)
+  * [Рецепты](igrovoi-kontent/brewery/recepty.md)
+* [Кастомные крафты](igrovoi-kontent/kastomnye-krafty.md)
+* [Волейбольные мячи](igrovoi-kontent/voleibolnye-myachi.md)
+* [Небольшие разработки](igrovoi-kontent/nebolshie-razrabotki/README.md)
+  * [Камнерез](igrovoi-kontent/nebolshie-razrabotki/kamnerez.md)
+  * [Защита артов](igrovoi-kontent/nebolshie-razrabotki/zashita-artov.md)
+  * [Быстрый бетон](igrovoi-kontent/nebolshie-razrabotki/bystryi-beton.md)
+  * [Кастомные пластинки](igrovoi-kontent/nebolshie-razrabotki/kastomnye-plastinki.md)
+  * [Расширение границы](igrovoi-kontent/nebolshie-razrabotki/rasshirenie-granicy.md)
+  * [Подпись предмета](igrovoi-kontent/nebolshie-razrabotki/podpis-predmeta.md)
 
-## 📚 Для ваших сборок <a href="#for-modpacks" id="for-modpacks"></a>
+## 📚 Для ваших сборок
 
-* [Старт моддинга](for-modpacks/modloaders/README.md)
-  * [Эмоции](for-modpacks/modloaders/emotecraft.md)
-  * [Войсчат](for-modpacks/modloaders/plasmovoice.md)
-  * [Реплеи](for-modpacks/modloaders/replaymod.md)
-* [Сборка](for-modpacks/mods-and-pack.md)
-* [Ресурспаки сообщества](for-modpacks/pack-from-player.md)
+* [Старт моддинга](dlya-vashikh-sborok/modloaders/README.md)
+  * [Эмоции](dlya-vashikh-sborok/modloaders/emotecraft.md)
+  * [Войсчат](dlya-vashikh-sborok/modloaders/plasmovoice.md)
+  * [Реплеи](dlya-vashikh-sborok/modloaders/replaymod.md)
+* [Сборка](dlya-vashikh-sborok/mods-and-pack.md)
